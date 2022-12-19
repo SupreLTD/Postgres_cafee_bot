@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="My_template_training.tg_bot.filters.admin.tg_bot" />
+          <option value="My_template_training.tg_bot.handlers.Pslush.*" />
+          <option value="Ivan_2022.project.models.Project.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
